@@ -3,7 +3,7 @@
 
 
 \## Overview
-
+![Power BI Dashboard Screenshot](images/Olaseni_unicorn_project_screenshort.png)
 This project is an interactive Power BI dashboard analyzing global unicorn companies (privately held startups valued at $1 billion or more), completed as part of the Torilo Academy Data Analysis Program. It demonstrates end-to-end Power BI skills — from data cleaning to DAX measures to interactive visual design.
 
 
